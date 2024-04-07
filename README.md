@@ -1,5 +1,5 @@
 # Generative Diffusion Model of Epileptic EEG Spike Detection for Data Augmentation
-<img src="Image/sample_EEG.png" width=500px>
+<img src="Image/sample_EEG.png" width=1000px>
 
 * This repository consist of code for implementation in "Generative Diffusion Model of Epileptic EEG Spike Detection for Data Augmentation"
 
