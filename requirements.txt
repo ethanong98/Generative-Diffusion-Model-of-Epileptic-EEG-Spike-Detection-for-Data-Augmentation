@@ -1,0 +1,10 @@
+pytz
+numpy
+matplotlib
+pywavelets
+seaborn
+scikit-learn
+torchsummary
+imblearn
+EDFlib-Python
+mne
